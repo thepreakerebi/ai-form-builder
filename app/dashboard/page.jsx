@@ -1,6 +1,6 @@
 function Dashboard() {
   return (
-    <section className="pt-20">Dashboard</section>
+    <section className="pt-28">Dashboard</section>
   )
 }
 export default Dashboard
